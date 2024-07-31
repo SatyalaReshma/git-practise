@@ -4,5 +4,12 @@ public class demo{
 
           //logic goes here
 
-    }
+     public static void main(string[] args){
+                     springapplication.run(sbwebappapplication.class, args);
+            public void doprocess(){
+
+          // logic comes here
+      int a=20;
+}
+
  }
