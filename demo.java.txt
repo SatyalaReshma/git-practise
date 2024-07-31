@@ -3,6 +3,7 @@ public class demo{
       public void doprocess(){
 
           //logic goes here
+             int a= 20;
 
      public static void main(string[] args){
                      springapplication.run(sbwebappapplication.class, args);
